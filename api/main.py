@@ -10,6 +10,19 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 import uuid
 from typing import Dict, List
+from chromadb import HttpClient
+
+# Укажите URL вашего Chroma-сервера (Ngrok/Cloudflare/прямой IP)
+CHROMA_SERVER_URL = "http://213.88.11.15:8000"  # или "https://abc123.ngrok.io"
+
+# Подключение к удалённой Chroma
+db = HttpClient(
+    host="213.88.11.15",  # или "abc123.ngrok.io" (без http://)
+    port=8000,              # порт Chroma
+    # Если есть аутентификация:
+    auth_provider="basic",
+    auth_credentials="user:pass"  # если настроено
+)
 
 # Настройки
 API_KEY = "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"
