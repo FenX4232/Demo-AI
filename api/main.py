@@ -20,8 +20,6 @@ db = HttpClient(
     host="213.88.11.15",  # или "abc123.ngrok.io" (без http://)
     port=8000,              # порт Chroma
     # Если есть аутентификация:
-    auth_provider="basic",
-    auth_credentials="user:pass"  # если настроено
 )
 
 # Настройки
