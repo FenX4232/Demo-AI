@@ -1,0 +1,32 @@
+query,chunk_id,score,human,assistant,text
+Как перезагрузить роутер?,1,1.4535305500030518,"Can you summarize Dostoevsky's ""The House of the Dead"" novel?","""The House of the Dead"" is a semi-autobiographical novel by Fyodor Dostoevsky, first published in 1861. The novel is set in a Siberian prison camp and is based on Dostoevsky's own experiences as a pol","### Human: Can you summarize Dostoevsky's ""The House of the Dead"" novel?### Assistant: ""The House of the Dead"" is a semi-autobiographical novel by Fyodor Dostoevsky, first published in 1861. The novel"
+Как перезагрузить роутер?,2,1.5093902349472046,"Hello, I would like you to write me how did Tchaikovsky die.","Pyotr Ilyich Tchaikovsky, one of the greatest composers in Russian history, died on November 6, 1893, at the age of 53. The cause of his death is a subject of some controversy.
+
+The official cause of ","### Human: Hello, I would like you to write me how did Tchaikovsky die.### Assistant: Pyotr Ilyich Tchaikovsky, one of the greatest composers in Russian history, died on November 6, 1893, at the age o"
+Как перезагрузить роутер?,3,1.5785784721374512,Can you write a code in python for a simple racing game,"```# Import pygame module
+import pygame
+
+# Initialize pygame
+pygame.init()
+
+# Create a screen with width 800 and height 600
+screen = pygame.display.set_mode((800, 600))
+
+# Set the title and icon of th","### Human: Can you write a code in python for a simple racing game### Assistant: ```# Import pygame module
+import pygame
+
+# Initialize pygame
+pygame.init()
+
+# Create a screen with width 800 and height"
+У меня проблема с VPN,1,1.277738094329834,WordPress Admin for questromworld.bu.edu to Require VPN,**Problem/Question/Information**  To help harden Questrom's WordPress environment the admin panel (wp-admin) on questromworld.bu.edu will be limited to the BU IP space (on-campus or VPN). Users that a,### Human: WordPress Admin for questromworld.bu.edu to Require VPN### Assistant: **Problem/Question/Information**  To help harden Questrom's WordPress environment the admin panel (wp-admin) on questro
+У меня проблема с VPN,2,1.3299568891525269,Web Login - weblogin - troubleshooting - repeated prompts to web login without returning an error me,"**Problem**  If you are not on the BU network, it's possible that the Internet Service Provider you are using has implemented a rotating IP address system. (Your network IP address needs to remain the","### Human: Web Login - weblogin - troubleshooting - repeated prompts to web login without returning an error me### Assistant: **Problem**  If you are not on the BU network, it's possible that the Inte"
+У меня проблема с VPN,3,1.3471895456314087,Opening a FileMaker doc with VPN,"**Problem/Question/Information**  I am not able to open a FileMaker Pro document from a shared folder using VPN. It might be some setting on this document, I am not sure. Thanks, cuco \--- Luis ""Cuco""",### Human: Opening a FileMaker doc with VPN### Assistant: **Problem/Question/Information**  I am not able to open a FileMaker Pro document from a shared folder using VPN. It might be some setting on t
+Свяжи меня с оператором,1,1.4036628007888794,"Hello, I would like you to write me how did Tchaikovsky die.","Pyotr Ilyich Tchaikovsky, one of the greatest composers in Russian history, died on November 6, 1893, at the age of 53. The cause of his death is a subject of some controversy.
+
+The official cause of ","### Human: Hello, I would like you to write me how did Tchaikovsky die.### Assistant: Pyotr Ilyich Tchaikovsky, one of the greatest composers in Russian history, died on November 6, 1893, at the age o"
+Свяжи меня с оператором,2,1.4905515909194946,"Can you summarize Dostoevsky's ""The House of the Dead"" novel?","""The House of the Dead"" is a semi-autobiographical novel by Fyodor Dostoevsky, first published in 1861. The novel is set in a Siberian prison camp and is based on Dostoevsky's own experiences as a pol","### Human: Can you summarize Dostoevsky's ""The House of the Dead"" novel?### Assistant: ""The House of the Dead"" is a semi-autobiographical novel by Fyodor Dostoevsky, first published in 1861. The novel"
+Свяжи меня с оператором,3,1.546940803527832,What are the most critical problems of capitalism?,Capitalism has been criticized for establishing power in the hands of a minority capitalist class that exists through the exploitation of a working class majority; for prioritizing profit over social ,### Human: What are the most critical problems of capitalism?### Assistant: Capitalism has been criticized for establishing power in the hands of a minority capitalist class that exists through the ex
+Wi-Fi не работает после обновления,1,1.388203501701355,Using Wireless Logs to Troubleshoot Connectivity Issues,**Utilizing Wireless Connectivity Logs to Troubleshoot Wireless Connectivity Issues**  Wireless authentication error and informational messages are logged to a file called _local3_ that resides in the,### Human: Using Wireless Logs to Troubleshoot Connectivity Issues### Assistant: **Utilizing Wireless Connectivity Logs to Troubleshoot Wireless Connectivity Issues**  Wireless authentication error an
+Wi-Fi не работает после обновления,2,1.4306236505508423,Connecting to Crestron AirMedia,**Problem/Question/Information**  Clients calling to check out cables in Registrar rooms should be able to connect to the system wirelessly via the Crestron AirMedia. You can check [bu.edu/classrooms],### Human: Connecting to Crestron AirMedia### Assistant: **Problem/Question/Information**  Clients calling to check out cables in Registrar rooms should be able to connect to the system wirelessly via
+Wi-Fi не работает после обновления,3,1.4333808422088623,Wireless 802.1x IP ranges,Existing ranges: 168.122.0.0/20 or netmask of 255.255.240.0168.122.17.0/24 or netmask of 255.255.255.0168.122.18.0/23 or netmask of 255.255.254.0168.122.20.0/24 or netmask of 255.255.255.0Added range:,### Human: Wireless 802.1x IP ranges### Assistant: Existing ranges: 168.122.0.0/20 or netmask of 255.255.240.0168.122.17.0/24 or netmask of 255.255.255.0168.122.18.0/23 or netmask of 255.255.254.0168.
